@@ -1,5 +1,7 @@
 # JBuster
 A rapid, multithreaded directory brute forcer written in Java
+
+[Go implementation](https://github.com/NathanPenwill/bbuster)
 ## Usage
 ```
 java -jar JBuster-1.0.0.jar https://example.com/
